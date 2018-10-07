@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "bedrockworld",
+    "name": "Bedrockworld",
+    "description": "generates a bedrock only world",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Frontrider"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
